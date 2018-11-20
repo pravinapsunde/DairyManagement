@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "DairyManagment"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-DairyManagment-5ffe03f8-4145-4a0a-b89e-5cbe57444607;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
